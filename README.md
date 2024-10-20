@@ -71,7 +71,7 @@ ETH and tokens<br>
 ```./bip39scan -m seeds.txt --save Found.txt -a eth_addresses.txt --save-bin eth.bin -t ethereum -p m/44\'/60\'/0\'/0-1/0-20```<br><br>
 
 Quick start with binary base:<br>
-```./bip39scan -m seeds.txt --save Found.txt -a btc1.bin -t P2PKH -p m/0-1/0-20<br>```
+```./bip39scan -m seeds.txt --save Found.txt -a btc1.bin -t P2PKH -p m/0-1/0-20```<br>
 ```./bip39scan -m seeds.txt --save Found.txt -a BAZA/btc1.bin -t P2PKH -p m/44\'/0\'/0\'/0-1/0-10<br>```<br>
 ```./bip39scan -m seeds.txt --save Found.txt -a BAZA/btc3.bin -t P2SH -p m/49\'/0\'/0\'/0-1/0-10```<br>
 ```./bip39scan -m seeds.txt --save Found.txt -a BAZA/btc-bc.bin -t Bech32 -p m/84\'/0\'/0\'/0-1/0-10```<br>
