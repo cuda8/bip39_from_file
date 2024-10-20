@@ -9,7 +9,7 @@ Supports phrase dictionaries up to 16 TB.<br>
 The program was extracted from the docker by the miner from whom the installation was rented.<br>
 The source code is missing, prohibit the program from accessing the Internet.<br>
 If you do not know how to do this, simply disconnect the Internet.<br>
-Buy the program https://t.me/s/cuda8
+Buy the program https://t.me/cuda8
 
 <b>Launch examples:</b>
 <br>
@@ -86,7 +86,8 @@ Place the file next to the program.<br>
 See the example in the file START.sh<br>
 ```./START.sh```
 
-
+precomp.bin - this is the acceleration table<br>
+See other arguments in console ./bip39scan
 
 
 
